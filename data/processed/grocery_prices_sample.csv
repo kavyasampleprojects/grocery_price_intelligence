@@ -1,0 +1,10 @@
+date,supermarket,product,brand,category,quantity,unit,price_eur
+2026-05-27,Lidl,Milk,Milbona,Dairy,1,liter,1.09
+2026-05-27,Aldi,Milk,Milsani,Dairy,1,liter,1.05
+2026-05-27,Rewe,Milk,Ja,Dairy,1,liter,1.19
+2026-05-27,Lidl,Rice,Golden Sun,Grains,1,kg,1.99
+2026-05-27,Aldi,Rice,Bon-Ri,Grains,1,kg,1.89
+2026-05-27,Rewe,Rice,Ja,Grains,1,kg,2.19
+2026-05-27,Lidl,Tofu,Vemondo,Vegan,200,g,1.99
+2026-05-27,Aldi,Tofu,My Vay,Vegan,200,g,1.79
+2026-05-27,Rewe,Tofu,Rewe Bio,Vegan,200,g,2.49
